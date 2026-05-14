@@ -23,7 +23,4 @@ Para este projeto, foquei na semântica do HTML e no poder de estilização do C
 
 ---
 
-### 📸 Visualização
-
-Você pode visualizar o projeto online através do link abaixo:
-👉 https://gitanpf.github.io/portfolio/
+**Link:** https://gitanpf.github.io/portfolio/
