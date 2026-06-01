@@ -424,6 +424,10 @@ a:hover {
     flex-direction: column;
   }
 
+  .projects-container {
+    justify-items: center;
+  }
+
   .projects-grid {
     justify-items: center;
   }
