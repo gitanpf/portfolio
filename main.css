@@ -424,6 +424,10 @@ a:hover {
     flex-direction: column;
   }
 
+  .services {
+    align-items: center;
+  }
+
   .projects-container {
     justify-items: center;
   }
